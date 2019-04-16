@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">April15</string>
+    <string-array name="occupations">
+        <item>Bibek</item>
+        <item>Manik</item>
+        <item>Bishal</item>
+        <item>Razib</item>
+        <item>Doctor</item>
+    </string-array>
+</resources>
